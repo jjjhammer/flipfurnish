@@ -254,6 +254,7 @@ fieldset[disabled] .btn-xl.active {
     font-weight: 700;
     color: #fff;
     background-color: transparent;
+    margin-top: 0px;
 }
 
 .btn-intro:hover,
