@@ -434,8 +434,8 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 30px;
     background-color: #5FB9A1;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 header .thankyou-text {
@@ -454,8 +454,9 @@ header .thankyou-text {
     }
 
     header .intro-text .intro-lead-in {
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 30px;
+        margin-bottom: 25px;
     }
 
     header .intro-text .intro-heading {
@@ -463,6 +464,8 @@ header .thankyou-text {
         font-size: 52px;
         font-weight: 200;
         line-height: 52px;
+        padding-top: 40px;
+        padding-bottom: 40px;
     }
     header {
         text-align: center;
